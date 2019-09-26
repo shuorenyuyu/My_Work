@@ -14,3 +14,26 @@ agile development. I would make a group with another develop team member and slo
     </tr>   
 </table>
 
+
+According to the company's policy, I can't bring out any code or show it at public. The first operator I tested is Softmax.
+<table>
+    <tr>
+        <td><div align=center><img src="https://github.com/shuorenyuyu/My_Work/blob/master/IMG/softmax.png" > <br> Fig. 2 Softmax</div></td> 
+    </tr>   
+</table>  
+
+     
+## Corporate website
+I developed web pages by using HTML and Bootstrap with introduction page for a company. Achieve log in, sign up and contact navbar. Used Bootstrap container collapse navbar to adapt mobile size for web page.  
+<table>
+    <tr>
+        <td><div align=center><img src="https://github.com/shuorenyuyu/My_Work/blob/master/IMG/Zetong_1.jpg" > <br> Mobile size </div></td>
+        <td><div align=center><img src="https://github.com/shuorenyuyu/My_Work/blob/master/IMG/Zetong_2.jpg"  > <br> PC size </div></td>
+    </tr>
+    <tr>
+        <td><div align=center><img src="https://github.com/shuorenyuyu/My_Work/blob/master/IMG/Zetong_3.gif"  > <br> </div></td>
+        <td><div align=center><img src="https://github.com/shuorenyuyu/My_Work/blob/master/IMG/Zetong_4.gif"  > <br> Fig. 8 The experiment scheme diagram</div></td>
+    </tr>
+</table>
+
+
