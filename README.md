@@ -7,4 +7,10 @@ This Summer, I worked as Develop Testing Engineer at Huawei. Our team's goal is 
 cases for multiple operators. Connected Add, Cast and Sqrt Aicpu operators in series and parallel and set up a test environment
 (Ubuntu and Euler OS). After finding bugs, I debuged it with develope team member. Because my team used methodologies based on
 agile development. I would make a group with another develop team member and slove this problem together.
-![image](https://github.com/shuorenyuyu/My_Work/blob/master/IMG/Huawei.jpg)
+
+<table>
+    <tr>
+        <td><div align=center><img src="https://github.com/shuorenyuyu/My_Work/blob/master/IMG/Huawei.jpg" > <br> Fig. 1 Team Happy hour</div></td> 
+    </tr>   
+</table>
+
