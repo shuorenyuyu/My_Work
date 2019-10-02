@@ -27,8 +27,8 @@ I developed web pages by using **HTML,CSS, JS and Bootstrap** with introduction 
         <td><div align=center><img src="https://github.com/shuorenyuyu/My_Work/blob/master/IMG/Zetong_2.jpg"  > <br> PC size </div></td>
     </tr>
     <tr>
-        <td><div align=center><img src="https://github.com/shuorenyuyu/My_Work/blob/master/IMG/Zetong_3.gif"  > <br>gif_1 </div></td>
-        <td><div align=center><img src="https://github.com/shuorenyuyu/My_Work/blob/master/IMG/Zetong_4.gif"  > <br> gif_2</div></td>
+        <td><div align=center><img src="https://github.com/shuorenyuyu/My_Work/blob/master/IMG/Zetong_3.gif"  > <br>Main Page </div></td>
+        <td><div align=center><img src="https://github.com/shuorenyuyu/My_Work/blob/master/IMG/Zetong_4.gif"  > <br> Contact US</div></td>
     </tr>
 </table>
 
@@ -48,4 +48,17 @@ Built Database Connection in **Java FX** with **MySQL** by using **JDBC** and im
         <td><div align=center><img src="https://github.com/shuorenyuyu/My_Work/blob/master/IMG/Picture5.png"  > <br>Patron purchase a library item </div></td>
         <td><div align=center><img src="https://github.com/shuorenyuyu/My_Work/blob/master/IMG/Picture6.png"  >Employee update an existing library item <br> gif_2</div></td>
     </tr>
-</table>
+</table>  
+
+
+## ZhouTube  Vue
+•Implemented code to store user’s history about what they watched in Database. Designed shrinkable navbar to adapt to different size of screen. Implemented code to read data from YouTube through API.
+   <table>
+    <tr>
+       <td><div align=center><img src="https://github.com/shuorenyuyu/My_Work/blob/master/IMG/Tube.png" > <br> Mobile size </div></td>
+        <td><div align=center><img src="https://github.com/shuorenyuyu/My_Work/blob/master/IMG/Tube_PC.png"  > <br> PC size </div></td>
+    </tr>
+    </table>
+    
+    
+    
