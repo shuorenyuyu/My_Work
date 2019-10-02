@@ -52,7 +52,7 @@ Built Database Connection in **Java FX** with **MySQL** by using **JDBC** and im
 
 
 ## ZhouTube  Vue
-•Implemented code to store user’s history about what they watched in Database. Designed shrinkable navbar to adapt to different size of screen. Implemented code to read data from YouTube through API.
+Implemented code to store user’s history about what they watched in Database. Designed shrinkable navbar to adapt to different size of screen. Implemented code to read data from YouTube through API.
    <table>
     <tr>
        <td><div align=center><img src="https://github.com/shuorenyuyu/My_Work/blob/master/IMG/Tube.png" > <br> Mobile size </div></td>
